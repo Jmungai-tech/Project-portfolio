@@ -1,6 +1,6 @@
 # PROJECT-PORTFOLIO
-Name:Jeremy Mungai Mathangani
-ABOUT:It has my projects , about me section which includes my hobbies,interests and skills, and all that. 
+###Name:Jeremy Mungai Mathangani
+##ABOUT:It has my projects , about me section which includes my hobbies,interests and skills, and all that. 
 DATE:9/02/2020
 
 ~ Description
@@ -11,6 +11,8 @@ The links clicked on wont open in a new tab but the same tab.So best use the bac
 Set-up instructions;
 -Clone the github url into your local machine.
 -Then you can access the files.
+
+[link:](file:///home/lenovo/Documents/Project-portfolio/project.html#section3)
 
 MIT License
 
