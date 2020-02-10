@@ -12,7 +12,11 @@ Set-up instructions;
 -Clone the github url into your local machine.
 -Then you can access the files.
 
-[link:](file:///home/lenovo/Documents/Project-portfolio/project.html#section3)
+### link
+
+https://jmungai-tech.github.io/Project-portfolio
+
+
 
 MIT License
 
